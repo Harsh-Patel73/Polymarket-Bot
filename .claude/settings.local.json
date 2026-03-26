@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.polymarket.com)",
+      "WebFetch(domain:docs.aiogram.dev)",
+      "WebFetch(domain:docs.anthropic.com)"
+    ]
+  }
+}
